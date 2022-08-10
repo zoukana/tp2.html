@@ -1,0 +1,80 @@
+body{
+    background-color: grey;
+  
+}
+h3{
+    color: white;
+}
+#photo{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0%;
+ margin-left: 5%;
+  
+}
+img{
+    width: 80%;
+    height: 400px;
+}
+.image{
+    width: 25%;
+    
+    
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    
+}
+
+#nom{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 7%;
+   
+}
+.prenom{
+    width: 25%;
+    color: blue;
+   
+}
+
+footer{
+   height: 300px; 
+   margin-top: 400px;
+   background-color: aqua;
+   
+
+}
+h1{
+    text-align: center;
+    color: black;
+}
+.menu{
+    display: flex;
+    background-color: #ccc;
+    justify-content: space-around;
+}
+.menu li{
+    list-style-type: none;
+}
+.menu a{
+    display: block;
+    min-width: 120px;
+    margin: 0.5rem;
+    padding:  0.4rem 0;
+    text-align: center;
+    background-color: aqua;
+    color: blue;
+    text-decoration: none;
+    border: 1px solid blue;
+    border-radius: 4px;
+    transition: all 1s;
+}
+#simplon{
+    display: flex;
+}
+
+

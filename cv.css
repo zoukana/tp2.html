@@ -1,0 +1,49 @@
+.photo{
+    width: 10%;
+    height: 100px;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+}
+.titre{
+    width: 30%;
+    margin-left: 450px;
+    background-color: blue;
+}
+h2{
+    text-align: center;
+}
+#compétence{
+    width: 100%;
+}
+#formation{
+    width: 100%;
+}
+#pro{
+    width:100% ;
+}
+p{
+    text-align: center;
+}
+.connaissances{
+    width: 100%;
+}
+#info{
+    display: flex;
+    margin-left: 15%;
+
+}
+.informatique{
+   
+    width: 30%;
+    
+}
+.lang{
+    width: 30%;
+   
+}
+.logi{
+    width: 30%;
+    
+    
+}

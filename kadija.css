@@ -1,0 +1,61 @@
+.page1{
+    width: 800px;
+    margin: auto;
+    font-family: 'Source sans Pro', Calibri, 'Tahoma', sans-serif;
+    font-size: 15px;
+    padding: 15px;
+}
+.infophoto{
+    height: 250px;
+}
+.info{
+    float: left;
+}
+.photo{
+    float: right;
+}
+.section{
+    margin-bottom: 50px;
+   text-align: justify;
+}
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.sec-droite{
+    margin-left: 150px;
+    margin-top: 46px;
+}
+h2{
+    font-size: 25px;
+    color: cadetblue;
+    border-bottom: 5px solid cornflowerblue;
+
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+#forma-gauche p{
+    margin-bottom: 35px;
+}
+.compétence{
+    font-weight: bold;
+    font-size: 20px;
+}
+.logi{
+    font-weight: bold;
+    font-size: 20px;
+}
+#lang-droite-sub p{
+margin-top: 37px;
+}
+#lang-droite{
+    line-height: 22px;
+}
+body{
+    max-width: 100px;
+    padding: auto;
+}
