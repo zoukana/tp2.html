@@ -1,0 +1,70 @@
+body {
+  background: grey;
+}
+
+.page {
+  width: 880px;
+
+  margin: auto;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 16px;
+  border: 5px solid #3388CC;
+  border-radius: 10px;
+  box-shadow: 2px 4px 3px block;
+  padding: 20px;
+  background-color: aliceblue;
+
+}
+
+.infophoto {
+  height: 250px;
+
+}
+
+.info {
+  float: left;
+}
+
+.photo {
+  float: right;
+
+}
+img{
+  width: 200px;
+  height: 250px;
+}
+.sec-gauche {
+  float: left;
+  font-weight: bold;
+  font-size: 20px;
+ display: flex;
+ justify-content: center;
+}
+
+
+
+
+.compétence {
+  margin: 300px solid;
+}
+
+.h2 {
+  display: flex;
+  justify-content: center;
+
+}
+
+.sec-gauche p {
+  margin-bottom: 57%;
+
+}
+
+
+
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
