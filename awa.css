@@ -33,7 +33,7 @@ img{
   width: 200px;
   height: 250px;
 }
-.sec-gauche {
+.sec1{
   float: left;
   font-weight: bold;
   font-size: 20px;
@@ -54,7 +54,7 @@ img{
 
 }
 
-.sec-gauche p {
+.sec1 p {
   margin-bottom: 57%;
 
 }
