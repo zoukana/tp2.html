@@ -7,7 +7,7 @@
     border: 5px solid white;
 }
 .infophoto{
-    height: 250px;
+    height: 180px;
 }
 .info{
     float: left;
@@ -52,16 +52,12 @@ table{
     font-size: 20px;
 }
 #forma-gauche p{
-    margin-bottom: 35px;
+    margin-bottom: 44px;
+}
+#forma-droite{
+    margin-top: 45px;
 }
 
-.logi{
-    font-weight: bold;
-    font-size: 20px;
-}
-#lang-droite-sub p{
-margin-top: 37px;
-}
 #lang-droite{
     line-height: 22px;
 }
