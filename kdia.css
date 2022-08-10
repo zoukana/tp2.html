@@ -1,0 +1,74 @@
+.page1{
+    width: 1007px;
+    background-color: mediumslateblue;
+    font-family: 'Source sans Pro', Calibri, 'Tahoma', sans-serif;
+    font-size: 20px;
+    padding: 5px;
+    border: 5px solid white;
+}
+.infophoto{
+    height: 250px;
+}
+.info{
+    float: left;
+}
+img{
+    float: right;
+width: 171px;
+height: 166px;
+border-radius: 10px;
+}
+.section{
+    margin-bottom: 25px;
+   text-align: justify;
+}
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.sec-droite{
+    margin-left: 150px;
+    margin-top: 46px;
+}
+h2{
+    font-size: 25px;
+    color: white;
+    border-bottom: 5px solid white;
+
+}
+.gentil{
+    color: white;
+}
+table{
+    width: 900px;
+    height: 284px;
+    
+    font-size: 30px;
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+#forma-gauche p{
+    margin-bottom: 35px;
+}
+
+.logi{
+    font-weight: bold;
+    font-size: 20px;
+}
+#lang-droite-sub p{
+margin-top: 37px;
+}
+#lang-droite{
+    line-height: 22px;
+}
+body{
+    
+    margin-left: 400px;
+    margin-right: 400px;
+    border: 2px solid  brown
+   
+     }
